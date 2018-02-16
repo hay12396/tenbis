@@ -1,0 +1,16 @@
+#app{
+    font:14px;
+}
+
+a.active{
+    color:orange;
+}
+
+a{
+    font-size:14px;
+    font-weight: bold;
+}
+
+nav{
+    padding:20px 0;
+}
